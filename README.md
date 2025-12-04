@@ -8,7 +8,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waleed90k&style=flat&color=orange)
-[![Telegram](https://img.shields.io/badge/Waleed-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+[![Telegram](https://img.shields.io/badge/Waleed-grey?style=flat&logo=telegram)](https://t.me/Waleed_i)
 
 </div>
 
